@@ -1,6 +1,8 @@
 # Define Building
 BRANCH=mt6768
 
+DEVICE_NAME=lancelot
+
 # Build Flags
 ARCH=arm64
 CC=clang
